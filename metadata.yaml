@@ -1,5 +1,8 @@
 _repo: History-of-the-Moorish-Empire-in-Europe-Vol-3-of-3_73492
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73492-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, S. P. (Samuel Parsons)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56727
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Parsons_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73492#History-of-the-Moorish-Empire-in-Europe-Vol-3-of-3
 gutenberg_issued: '2024-04-29'
 gutenberg_type: Text
 identifiers:
